@@ -1,0 +1,23 @@
+﻿1) E-mail göndərmək funskionallığı (İcarəyə götürdüyü kitabı 10 gündən artıq yubadan istifadəçilərə avtomatik mail göndərilsin)
+2) Istifadəçilər üçün Roles/Permissions 
+
+
+Requirements:
+1) Localization for one view at least
+2) Register pəncərəsi (Qeydiyyat e-mail confirmation ilə təsdiqlənsin)
+
+
+
+
+Tables:
+--kitablar
+--müəlliflər
+--işçilər
+--Filiallar
+--Müştərilər
+--Satışlar (Kirayələr)
+--istifadəçi və istifadəçi icazələri
+
+
+--janrlar
+--kateqoriyalar
